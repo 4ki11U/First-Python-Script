@@ -1,2 +1,2 @@
 # First-Python-Script
-Python Script for the Asterisk
+Скрипт написанный на 
